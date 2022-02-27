@@ -1,0 +1,273 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An exact legendary compendiously containing the whole life of Alderman Abel, the maine proiecter and patentee for the raising of wines. His apprentiship with a vintener, betrothing to his wife, the manner of his rising reigning, and after delinquencie, whereby he stands liable to a severe censure and penalty in Parliament.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86609</idno>
+            <idno type="STC">Wing H3</idno>
+            <idno type="STC">Thomason 669.f.4[15]</idno>
+            <idno type="STC">ESTC R209942</idno>
+            <idno type="EEBO-CITATION">99868787</idno>
+            <idno type="PROQUEST">99868787</idno>
+            <idno type="VID">160637</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86609)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160637)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 245:669f4[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An exact legendary compendiously containing the whole life of Alderman Abel, the maine proiecter and patentee for the raising of wines. His apprentiship with a vintener, betrothing to his wife, the manner of his rising reigning, and after delinquencie, whereby he stands liable to a severe censure and penalty in Parliament.</title>
+                  <author>A. H.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Imprinted in the yeare. MDCXLI. [1641]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Signed at end: A. H. [i.e. William Abele].</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Abell, William, fl. 1640.</term>
+               <term>Trials (Political crimes and offenses) --  Great Britain --  Early works to 1800.</term>
+               <term>Wine and wine making --  Taxation --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-11</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="tract">
+            <pb facs="tcp:160637:1" rendition="simple:additions"/>
+            <head>AN
+EXACT LEGENDARY
+Compendiouſly
+Containing the whole Life of Alderman ABEL, the maine Proiecter and Patentee for the raiſing
+of Wines. His Apprentiſhip with a Vintener, betrothing to his Wife, the manner of his riſing, reigning, and after
+Delinquencie, whereby he ſtands liable to a ſevere Cenſure and Penalty in Parliament.
+<figure>
+                  <figDesc>woman and man</figDesc>
+                  <lg>
+                     <l>I hope my Mate</l>
+                     <l>will raiſ my ſtate</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Abel</hi> in this th'art like to curſed <hi>Caine.</hi>
+                     </l>
+                     <l>Th'aſt wrong'd thy <hi>Brethren</hi> and thy <hi>Chaine.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>I've rackt my Wines to th full extent,</l>
+                     <l>Not dreaming of a <hi>Parliament.</hi>
+                     </l>
+                  </lg>
+               </figure>
+            </head>
+            <opener>
+               <salute>Noble Friend,</salute>
+            </opener>
+            <p>THe principall deſire in thy Letter, which is the relation of Newes, I
+thus ſatisfie. I could declare unto thée the downfall and death of him
+who was of three Kingdomes the moſt unhappy hated Object; but I
+beléeve thou art not ignorant of that, nor of the impriſonment of the o<g ref="char:EOLhyphen"/>ther
+Great Man of little Grace, the formers <hi>quondam</hi> Compéere, and Com<g ref="char:EOLhyphen"/>plotter:
+but this is ſo ſtale, it cannot rightly be term'd Newes; no more then
+many other matters formerly remarkable; but now not worthy notice.</p>
+            <p>The chiefe and onely brisk Newes now extant, is the downfall of Wines,
+that formerly were ſo rack't, that for want of two-pence to purchaſe a quart of
+Sack, many a true Twelve-penny ſervant to <hi>Bacchus</hi> was forced to retire:
+Yet now (Heaven be therefore praiſed) their ſodaine fall is proclaimed; and
+very probable it is that they ſhould fall, for their Raiſer himſelfe is falne, and
+ſo falne, that unleſſe he caſt up his wine againe, and that ſodainly, there is no
+hope of his riſing.</p>
+            <p>To delineate his Character, and tell thée what this Creature was in the ori<g ref="char:EOLhyphen"/>ginall
+was, (though it take ſome time in the peruſing) yet it may give thée ſuffi<g ref="char:EOLhyphen"/>cient
+ſatisfaction in liew of thy labour. His name thou knoweſt is <hi>Abel,</hi> a name
+ſufficient in it ſelfe to ring the Maker his praiſes through the world; whether
+his Fathers name were <hi>Adam</hi> or no I cannot tell, although I am ſure he was a
+M<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n. This his ſonne <hi>Abel,</hi> being in his Non-age, and having within him a
+Prophetique Spirit that told him he ſhould in time come néere to be Lord Maior
+of <hi>London;</hi> his deſire was to his Father he might Vintener it; Whereupon
+his Father condiſcending bound him Apprentice to one of that Trade, where
+he was very of ficious, and as induſtrious to take a broken pate, or be throwne
+downe ſtaires by a Gentleman (ſo his wounds might be curable within the
+verge of a Shi<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ling, or ſome ſuch ſumme) as any other of his fellowes could be;
+he would as nimbly anſwere [<hi>By, and By</hi>] to the Bar-bells time, as <hi>Whitting<g ref="char:EOLhyphen"/>ton</hi>
+did to the harmonious ſound of the changing Bells that proclaimed him Lord
+Maior. His ſedulity and diligence in his Apprentiſhip, was a ſufficient ſigne of
+his after riſing. Many a Sack-poſſet has he and his beloved <hi>Iſabel</hi> cal'd to wit<g ref="char:EOLhyphen"/>nes
+of the integritie of his faith and troth unto her: Many a condemn'd diſh of
+Mackeroll, Anchovies and Caveare have they devoutly devoured ever a cup
+of Sack, and Hypocriſt. In tract of time, what by opportune dalliances, plea<g ref="char:EOLhyphen"/>ſing
+Courtſhip, and amourous geſtures, as ſervants may ſometimes uſe <hi>Magi<g ref="char:EOLhyphen"/>ſtro
+abſente</hi>) theſe two Lovers had proceded ſo farre, that within a ſhort ſpace
+they became lawfull <hi>William</hi> and <hi>Iſabel,</hi> Man and Wife, His time now fully
+expired, he ſet up for himſelfe and began to thrive amaine: His habitation was
+ſometime at the Ship in Old-Fiſh ſtréet; where what with the help of his diſtin<g ref="char:EOLhyphen"/>guiſhing
+taſt abroad, and her ſure gathering and cleſe kéeping at home, together
+with their exceſsive gaine of Friday night Suppers, they became great in re<g ref="char:EOLhyphen"/>pute,
+and generally noted through the City. <hi>Abell,</hi> his name was rung in every
+mans eare, out of every mans mouth: ſo highly was his Stock increaſed, that
+his ample Cellar was become too commendious to containe his Sack: The
+Seas were plowed daily to bring him in wines: and that would not ſatisfie him,
+but the poore (rich I might rather ſay) Earth was digged to containe them. Ile
+warrant him he never thinks of Cardinall <hi>Woolſey,</hi> but withall remembers the
+ſwéet Legatic he left behind him in the Vault. The honeſt Vintener was ſo
+cautious, he would not ſuffer any others induſtry in the diſcovery beſide his own:
+He car'd not for Partners in his Houſe, much loſſe in his Celler: Of all the
+Roomes in his Ship he moſt affected the Keele: There was indeed the begin<g ref="char:EOLhyphen"/>ning
+of his glory. He is now worth at leaſt ten or twelve thouſand pounds, and
+muſt be Sheriffe: He muſt now keep good Hoſpitality at thy Citie charge his
+White-broth proclaimes it ſelfe; and for Fiſh his worſhip commonly affecteth
+Plaice moſt. His Wives ſhooes muſt not now ſhine with the ſmeering and un<g ref="char:EOLhyphen"/>ſightly
+unguent of Kitchin-ſtuffe; but the pureſt Black that <hi>Spaine</hi> affords muſt
+now cover her happy Feet: Their Children muſt be nurſt and bred at Hye<g ref="char:EOLhyphen"/>gate,
+and (becauſe the Court breeding is not held gentie enough) have ſelect
+perſone on purpoſe imployed for their better education. Her manifold Chaine
+and Liffinie Ruffe without the addition of her Sattin Gowne, Hood, and round
+begarded Petticoat, ſpeake her ſupereminent for a Citie Matron-ſhip at leaſt:
+In the meane time he (for his part) deales much in the Court of Conſcience.</p>
+            <p>His Conſcience tells him that the Luxury of the times muſt be abated: Wine
+is ſo cheape, that the pooreſt Mechanicks drinke it: It muſt be exalted (by the
+help of a Monopolizing Patent, proiected and ſurreptitiouſly obtained betwixt
+his Coſen <hi>Kilvert</hi> and himſelfe) to prevent Drunkenneſſe, Forty Shillings a
+Tunne is not cuſtome enough to the King; but this ſeeming-honeſt Alderman
+muſt break both Merchants &amp; Retailors. This Patent for the Office of Wine
+(being granted) not a Firkin of Wine can be conveyed, without a Ticket from
+<hi>Aldermary</hi> Church-yard, but one of this noble Aldermans ſpirits will prie into
+it, and becauſe it wants hallowing with a note, it muſt be damn'd to the bottome
+of his Cellar.</p>
+            <p>All this time the good fellows in every Coaſt and Quarter of the Land, eſpeci<g ref="char:EOLhyphen"/>ally
+within circuit of this City, mourned moſt ſolemnly in ſmall Beere and were
+not able to climbe to the <hi>Olimpus</hi> of Old <hi>Sherry</hi> or Moderne <hi>Canary.</hi> The noble
+Souldiers cannot drink above a Pint a day out of their pay without prejudice to
+their hardly gotten Eſtate. The wittie Poets dare ſcarcely adventure into a
+Taverne to ſuck of their <hi>Hypocrene,</hi> or <hi>Aganippe.</hi> nor ſit long to ſing forth the
+praiſes of <hi>Helicon,</hi> for feare of being arraigned at the Barre for the odd two<g ref="char:EOLhyphen"/>pences
+ariſing upon each ſeverall Pottle: and therfore in ſtead of <hi>Encomiums</hi>
+on the excellencie of virtuall <hi>Canary,</hi> they all write nipping <hi>Satyres</hi> againſt the
+baſe extortion of this ravenous Citie Member, who makes himſelfe merry with
+other mens miſery: And becauſe thoſe of his owne Function muſt not make him
+their preſident of growing great, <hi>Medium</hi> Wine muſt be forc'd upon them; He
+that oppoſeth muſt to'th' <hi>Fleet</hi> no redemption with out ſubmiſſion. Hee will not
+ſpare his brother <hi>Cain,</hi> tho he be certain he ſhall be jeerd in the Vampt Whore
+fort: he has ſhowne himſelfe ſo fierce in his Authority, that moſt men ſuppoſed
+he could not long ſubſiſt in this his wicked way, but at length bee brought to a
+ſtrict Audit for all his Abuſes.</p>
+            <p>And ſo it appeared, <hi>Tempora mutantur, &amp;c.</hi> The whole Body of <hi>Parliament</hi>
+diſtaſt his Projects, diſallow his Exaction, and are determined to pull downe
+this <hi>Coloſſus</hi> of Covetouſneſſe, or at leaſt levell him with his Brethren by the
+Plane and Paring knife of Iuſtice, though it indanger his Eares in the polli<g ref="char:EOLhyphen"/>ſing.
+Howbeit they beare a reverent reſpect to this Author of Project; as may
+appeare by the cloſe conveyance of him to a place where he may be found forth<g ref="char:EOLhyphen"/>comming:
+and leſt the mad <hi>Bacchanalian</hi> Blades ſhould wrong this good Able
+Alderman if they met him in the Streets; they have provided a ſtronger houſe
+for him than his Ticket-Office at <hi>Aldermaries.</hi> They'l there dyet, Phyſicke
+him, and preſerve him ſecure from further danger, till he vomit up moſt of his
+Wine againe which may be partly a meanes likewiſe to purge his Conſcience.
+His Phyſitians tell him (unleſſe he wiſely prevent it) he is like to be extreamly
+troubled with head ach; eſpecially with a ſtopping in his throat. But he is wiſe,
+and both knowes his owne diſeaſe beſt himſelfe, and the moſt probable Cure;
+which if it ſtop not his weſand, and hinder the naturall paſſage of his breath, he
+may haply recover, and be <hi>Abel</hi> to ſet up his Trade againe. Hee is (it ſeems)
+a man generally belov'd ſtill: for every man lonnes his Picture, and ſcarce any
+Stationer in Towne, but has ſome Pamphlet, Sonnet or Ballet in his praiſe.</p>
+            <p>But I have held thée too tediouſly already in this fruitleſſe Story; I therefore
+héere leave him in the ſoddes of his delinquencie, till he be purg'd and paſſ'd a<g ref="char:EOLhyphen"/>way
+(either on Horſ-back aukward, or on foot forward) by a Parlamentary
+Penalty. In the meane time accept the good will of him that preſents theſe
+lines in liew of his ingagement Hoping ere long to ſée golden dayes revived;
+and to participate with thée in a Pint of Sack for Six-pence.</p>
+            <closer>
+               <signed>Thine obliged, in Service:
+<hi>A. H.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Imprinted in the Yeare. MDCXLI.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
